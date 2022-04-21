@@ -2,7 +2,7 @@ package de.hfu;
 
 /**
  * Hello world!
- *
+ *wee
  */
 import java.util.Scanner;
 public class App  {
