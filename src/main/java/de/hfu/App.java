@@ -3,6 +3,7 @@ package de.hfu;
 /**
  * Hello world!
  *wee
+ *new change to commit
  */
 import java.util.Scanner;
 public class App  {
